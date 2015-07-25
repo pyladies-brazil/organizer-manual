@@ -42,7 +42,7 @@ Como mencionamos, você pode utilizar o Formulário do Google Doc para este prop
 
 Você também pode copiar o nosso template de formulário existente [neste link](https://docs.google.com/forms/d/1_C3Jp-QULdUBB9e8c_n2MG0s0ckkwABoIJvZGG5mbi4/edit?usp=sharing)
 
-### Questinário
+### Questionário
 
 Que tipo de questões você deve fazer no formulário? Nós temos uma lista daquelas que usamos ou que achamos que podem ser úteis para eventos futuros.
 
