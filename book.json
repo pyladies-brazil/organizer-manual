@@ -1,0 +1,25 @@
+ {
+    "links": {
+        "sidebar": {
+            "Need help? Talk to us!": "https://gitter.im/DjangoGirls/organizer-manual"
+        }
+    },
+
+    "plugins": [
+        "anchors@0.4.0", "ga@0.2.1", "richquotes@0.0.5", "edit-link@1.4.1"
+    ],
+    "pluginsConfig": {
+        "ga": {
+            "token": "<Your Analytics ID>"
+        },
+        "richquotes" : {
+            "todos" : true
+        },
+        "edit-link": {
+            "base": "https://github.com/djangogirls/organizer-manual/edit/master",
+            "label": "Edit This Page"
+        }
+    },
+
+    "gitbook": "2.1.0"
+}
