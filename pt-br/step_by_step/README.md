@@ -9,28 +9,28 @@ Vamos ver como fica isso na linha do tempo:
 ### 3 meses antes
 
 - __Inscreva-se na organização das Django Girls__
-- Faça um [website](website/README.html), [Twitter or Facebook](promotion/README.html)
-- [Comece a divulgação do workshop Django Girls](promotion/README.html)
-- [Comece a procurar por patrocinadores](sponsors/README.html)
-- [Comece a pesquisar por espaços](logistics/README.html)
-- [Comece a procurar por mentores](coaches/README.html)
+- Faça um [website](website/README.md), [Twitter or Facebook](promotion/README.md)
+- [Comece a divulgação do workshop Django Girls](promotion/README.md)
+- [Comece a procurar por patrocinadores](sponsors/README.md)
+- [Comece a pesquisar por espaços](logistics/README.md)
+- [Comece a procurar por mentores](coaches/README.md)
 
 ### 2 meses antes
 
-- [Anuncie formulários de inscrições para participantes](attendees/README.html)
-- [Alcance mídias e universidades locais e promova ativamente o evento](promotion/README.html)
-- [Tenha um time de treinadores pronto](coaches/README.html)
+- [Anuncie formulários de inscrições para participantes](attendees/README.md)
+- [Alcance mídias e universidades locais e promova ativamente o evento](promotion/README.md)
+- [Tenha um time de treinadores pronto](coaches/README.md)
 - Garanta um local
 - Comece a procurar por questões de alimentação
-- [Continue procurando por patrocinadores](sponsors/README.html)
+- [Continue procurando por patrocinadores](sponsors/README.md)
 
 ### 1 mês antes
 
 - Anuncie seus treinadores no site
-- [Escolha os participantes e informe-os](http://organize.djangogirls.org/attendees/README.html#how-to-choose-attendees)
-- Organize um jantar / encontro com seus treinadores e certifique-se de que eles leram o [Manual do Treinador](http://coach.djangogirls.org/) e estão familiarizados com o [Tutorial](tutorial/README.html).
+- [Escolha os participantes e informe-os](http://organize.djangogirls.org/attendees/README.md#how-to-choose-attendees)
+- Organize um jantar / encontro com seus treinadores e certifique-se de que eles leram o [Manual do Treinador](http://coach.djangogirls.org/) e estão familiarizados com o [Tutorial](tutorial/README.md).
 - Certifique-se de que seus participantes confirmaram presença
-- [Certifique-se de que toda a logística está ok](logistics/README.html)
+- [Certifique-se de que toda a logística está ok](logistics/README.md)
 
 ### 1 semana antes
 
@@ -38,7 +38,7 @@ Vamos ver como fica isso na linha do tempo:
 
 ### Depois do evento
 
--  Acompanhe as Django Girls globais e nos conte como foi! [Algumas ideias aqui](/after_the_event/README.html).
+-  Acompanhe as Django Girls globais e nos conte como foi! [Algumas ideias aqui](/after_the_event/README.md).
 - __Fique orgulhosa de você mesma <3__
 
 Tudo isso está explicado nos capítulos à esquerda, mas aqui você encontra um quadro geral.
