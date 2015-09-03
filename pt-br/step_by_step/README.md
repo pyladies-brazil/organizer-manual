@@ -9,7 +9,7 @@ Vamos ver como fica isso na linha do tempo:
 ### 3 meses antes
 
 - __Inscreva-se na organização das Django Girls__
-- Faça um [website](website/README.md), [Twitter or Facebook](promotion/README.md)
+- Faça um [website](../website/README.md), [Twitter or Facebook](promotion/README.md)
 - [Comece a divulgação do workshop Django Girls](promotion/README.md)
 - [Comece a procurar por patrocinadores](sponsors/README.md)
 - [Comece a pesquisar por espaços](logistics/README.md)
