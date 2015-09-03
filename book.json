@@ -10,7 +10,7 @@
     ],
     "pluginsConfig": {
         "ga": {
-            "token": "UA-51680040-3"
+            "token": "<Your Analytics ID>"
         },
         "richquotes" : {
             "todos" : true
