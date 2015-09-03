@@ -16,7 +16,7 @@
             "todos" : true
         },
         "edit-link": {
-            "base": "https://github.com/djangogirls/tutorial/edit/master",
+            "base": "https://github.com/djangogirls/organizer-manual/edit/master",
             "label": "Edit This Page"
         }
     },
