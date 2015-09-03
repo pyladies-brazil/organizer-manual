@@ -38,7 +38,7 @@ Vamos ver como fica isso na linha do tempo:
 
 ### Depois do evento
 
--  Acompanhe as Django Girls globais e nos conte como foi! [Algumas ideias aqui](..//after_the_event/README.md).
+-  Acompanhe as Django Girls globais e nos conte como foi! [Algumas ideias aqui](../after_the_event/README.md).
 - __Fique orgulhosa de você mesma <3__
 
 Tudo isso está explicado nos capítulos à esquerda, mas aqui você encontra um quadro geral.
