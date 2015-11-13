@@ -1,3 +1,4 @@
+
 # Django Girls Manual do Organizador
 
 Se você está lendo isso significa que você está interessada em organizar seu próprio evento Django Girls. Isso é incrível!
@@ -16,7 +17,7 @@ Nossa missão é trazer mais mulheres para a área tecnológica, fazendo a tecno
 
 ### O que é um evento Django Girls?
 
-Um evento Django Girls é um workshop de um dia com uma festa de instalação, que pode ocorrer uma tarde anterior ou remotamente via Google Hangout / Skype. Durante todo o workshop as participantes vão trabalhar em pequenos grupos (três participantes + um treinador) e passar pelo tutorial para criar um blog com sucesso e publicá-lo na internet.
+Um evento Django Girls é um workshop de um dia com uma festa de instalação, que pode ocorrer uma tarde anterior ou remotamente via Google Hangout/Skype. Durante todo o workshop as participantes vão trabalhar em pequenos grupos (três participantes + um treinador) e seguir o tutorial para criar um blog com sucesso e publicá-lo na internet.
 
 Os eventos Django Girls são sempre sem fins lucrativos e gratuitos para as participantes. Nós não pagamos treinadores, palestrantes ou organizadores. As participantes não precisam de nenhum conhecimento prévio sobre programação e não há limite de idade. Tudo o que a participante precisa é de um laptop e alguma curiosidade.
 
