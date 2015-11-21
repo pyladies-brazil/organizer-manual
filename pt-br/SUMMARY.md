@@ -10,7 +10,7 @@
 * [Parcerias de conferências](conferences/README.md)
 * [Logística](logistics/README.md)
 * [Acessibilidade](accessibility/README.md)
-* [Cronograma de exemplo](example_schedule/README.md)
+* [Exemplo de Cronograma](example_schedule/README.md)
 * [Website](website/README.md)
 * [Tutorial](tutorial/README.md)
 * [Recursos](resources/README.md)
