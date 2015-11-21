@@ -42,25 +42,7 @@ Você pode criar um formulário de inscrição para cada site Django Girls. Para
 
 ![](https://dl.dropboxusercontent.com/u/527278/Screen%20Shot%202015-06-25%20at%202.20.19%20PM.png)
 
-<<<<<<< HEAD
 Agora você deve editar todos os textos. O campo _Confirmation mail_ corresponde ao email que será automaticamente enviado através de cidade@djangogirls.org para a participante após submeter a inscrição.
-=======
-### Questionário
-
-Que tipo de questões você deve fazer no formulário? Nós temos uma lista daquelas que usamos ou que achamos que podem ser úteis para eventos futuros.
-
-1. Qual o seu nome?
-
-2. Qual o seu endereço de e-mail?
-
-3. Seu número de telefone. Inclua o prefixo do seu país.
-
-4. De onde você é? Cidade, País.
-
-5. Quantos anos você tem?
-
-6. Seu laptop: Qual o seu sistema operacional? (Windows | Mac OS X | Linux | Outro)
->>>>>>> master
 
 Você também pode especificar o período no qual o formulário irá automaticamente tornar-se disponível para o público, usando os campos de data no final da página.
 
