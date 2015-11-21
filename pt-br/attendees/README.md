@@ -48,7 +48,7 @@ Você também pode especificar o período no qual o formulário irá automaticam
 
 Uma vez salvo, você pode acessá-lo em: http://djangogirls.org/suacidade/apply (subistitua `suacidade` com a url para o website da sua cidade). Você também deve adicionar este endereço no seu website e compartilhá-lo com potenciais participantes.
 
-Para ver todoas as inscrições que foram feitas vá numa url tipo essa: http://djangogirls.org/yourcity/applications/ (lembre-se de substituir `suacidade`com a url para o website da sua cidade).
+Para ver todas as inscrições submetidas para o seu evento acesse uma URL como esta: http://djangogirls.org/suacidade/applications/ (lembre-se de substituir `suacidade` com o endereço do seu website).
 
 ### Questinário
 
