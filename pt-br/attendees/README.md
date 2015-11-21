@@ -50,7 +50,7 @@ Uma vez salvo, você pode acessá-lo em: http://djangogirls.org/suacidade/apply 
 
 Para ver todas as inscrições submetidas para o seu evento acesse uma URL como esta: http://djangogirls.org/suacidade/applications/ (lembre-se de substituir `suacidade` com o endereço do seu website).
 
-### Questinário
+### Questionário
 
 Como você provavelmente notou que, ao criar o formulário, nós automaticamente adicionamos algumas questões padrões. Você sempre poderá editar, remover ou adicionar novas questões indo em [Django Girls Admin -> Applications -> Question](http://djangogirls.org/admin/applications/question/). Yay!
 
