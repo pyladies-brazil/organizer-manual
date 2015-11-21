@@ -48,6 +48,8 @@ Você também pode especificar o período no qual o formulário irá automaticam
 
 Uma vez salvo, você pode acessá-lo em: http://djangogirls.org/suacidade/apply (subistitua `suacidade` com a url para o website da sua cidade). Você também deve adicionar este endereço no seu website e compartilhá-lo com potenciais participantes.
 
+Para ver todoas as inscrições que foram feitas vá numa url tipo essa: http://djangogirls.org/yourcity/applications/ (lembre-se de substituir `suacidade`com a url para o website da sua cidade).
+
 ### Questinário
 
 Como você provavelmente notou que, ao criar o formulário, nós automaticamente adicionamos algumas questões padrões. Você sempre poderá editar, remover ou adicionar novas questões indo em [Django Girls Admin -> Applications -> Question](http://djangogirls.org/admin/applications/question/). Yay!
